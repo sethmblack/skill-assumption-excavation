@@ -4,7 +4,7 @@ description: Surface and examine the unstated assumptions underlying any positio
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3416
+  version: 1.0.3417
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assumption-excavation
